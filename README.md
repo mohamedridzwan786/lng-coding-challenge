@@ -1,6 +1,6 @@
 # lng
 
-A new Flutter project.
+A new Flutter project for LNG Coding Challenge.
 
 ## Getting Started
 
